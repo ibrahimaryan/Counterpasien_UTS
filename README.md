@@ -1,19 +1,31 @@
 # How to run
 1. flutter pasien
 
-```cd app_pasien```
+```
+cd app_pasien
+```
 
-```flutter pub get```
+```
+flutter pub get
+```
 
-```Flutter run```
+```
+Flutter run
+```
 
 2. flutter perawat
 
-```cd app_perawat```
+```
+cd app_perawat
+```
 
-```flutter pub get```
+```
+flutter pub get
+```
 
-```flutter run```
+```
+flutter run
+```
 
 3. mikrokontroller
 
