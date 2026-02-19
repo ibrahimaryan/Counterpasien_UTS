@@ -1,0 +1,87 @@
+# =========================
+# Flutter & Dart
+# =========================
+
+# Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+.metadata
+
+# Generated files
+*.log
+*.tmp
+*.swp
+*.lock
+
+# Coverage
+coverage/
+
+# =========================
+# Android
+# =========================
+
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/android/.gradle
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+# Keystore (jangan commit)
+*.jks
+*.keystore
+
+# =========================
+# iOS
+# =========================
+
+**/ios/Flutter/.last_build_id
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+
+# Xcode
+**/ios/*.xcworkspace
+**/ios/*.xcuserstate
+**/ios/Runner.xcworkspace
+
+# =========================
+# VSCode
+# =========================
+
+.vscode/
+
+# =========================
+# macOS
+# =========================
+
+.DS_Store
+
+# =========================
+# Windows
+# =========================
+
+Thumbs.db
+
+# =========================
+# Linux
+# =========================
+
+*.swp
+
+# =========================
+# Docs Folder (Custom)
+# =========================
+/docs

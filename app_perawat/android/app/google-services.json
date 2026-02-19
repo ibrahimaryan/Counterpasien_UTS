@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "429230105069",
+    "firebase_url": "https://hospitaliot-himmti3b-default-rtdb.firebaseio.com",
+    "project_id": "hospitaliot-himmti3b",
+    "storage_bucket": "hospitaliot-himmti3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429230105069:android:fd853690eaf0e4655b07e4",
+        "android_client_info": {
+          "package_name": "com.example.app_nurse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1feHQM5j3zx1hp80wqZk8yCDECaHYq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429230105069:android:88cff40a85236c6f5b07e4",
+        "android_client_info": {
+          "package_name": "com.example.app_pasien"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1feHQM5j3zx1hp80wqZk8yCDECaHYq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429230105069:android:35025f41aa23fb155b07e4",
+        "android_client_info": {
+          "package_name": "com.example.app_patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1feHQM5j3zx1hp80wqZk8yCDECaHYq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429230105069:android:2c60d8457e50fa6d5b07e4",
+        "android_client_info": {
+          "package_name": "com.example.app_perawat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1feHQM5j3zx1hp80wqZk8yCDECaHYq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
