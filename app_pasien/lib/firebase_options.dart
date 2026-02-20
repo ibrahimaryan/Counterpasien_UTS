@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD1feHQM5j3zx1hp80wqZk8yCDECaHYq9c',
+    apiKey: '', // dapet dari google service json, folder android\app
     appId: '1:429230105069:android:88cff40a85236c6f5b07e4',
     messagingSenderId: '429230105069',
     projectId: 'hospitaliot-himmti3b',
